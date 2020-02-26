@@ -1,9 +1,6 @@
 <?php
 $moneyChange =  (float) round($argv[1], 2, PHP_ROUND_HALF_UP);
 
-
-
-
 const GELDEENHEID = [
     "50" => "Euro",
     "20" => "Euro",
